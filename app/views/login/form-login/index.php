@@ -11,8 +11,8 @@
             <div class="row justify-content-center align-items-center height-self-center">
                 <div class="col-md-5 col-sm-12 col-12 align-self-center">
                     <div class="sign-user_card">
-                        <img src="<?php echo BASEURL; ?>/assets/images/logo.png" class="img-fluid rounded-normal light-logo logo" alt="logo">
-                        <img src="<?php echo BASEURL; ?>/assets/images/logo-white.png" class="img-fluid rounded-normal darkmode-logo logo" alt="logo">
+                        <img src="<?php echo BASEURL; ?>/assets/images/logo-new.png" class="img-fluid rounded-normal light-logo logo" alt="logo">
+                        <img src="<?php echo BASEURL; ?>/assets/images/logo-new.png" class="img-fluid rounded-normal darkmode-logo logo" alt="logo">
                         <h3 class="mb-3">Sign In</h3>
                         <p>Login to stay connected.</p>
                         <form action="<?php echo BASEURL; ?>/Login/postLogin" method="POST">

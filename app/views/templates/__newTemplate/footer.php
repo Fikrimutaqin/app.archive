@@ -5,7 +5,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12 text-center">
-                Copyright 2021 <a href="#">CloudBOX</a> All Rights Reserved.
+                Copyright 2021 <a href="https://cbis.sch.id/" target="_blank">Citra Bangsa</a> All Rights Reserved.
             </div>
         </div>
     </div>

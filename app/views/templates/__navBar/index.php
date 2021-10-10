@@ -5,8 +5,7 @@
             <div class="iq-navbar-logo d-flex align-items-center justify-content-between">
                 <i class="ri-menu-line wrapper-menu"></i>
                 <a href="<?php echo BASEURL; ?>" class="header-logo">
-                    <img src="<?php echo BASEURL; ?>/assets/images/logo.png" class="img-fluid rounded-normal light-logo" alt="logo">
-                    <img src="<?php echo BASEURL; ?>/assets/images/logo-white.png" class="img-fluid rounded-normal darkmode-logo" alt="logo">
+                    <h2>Citra Bangsa</h2>
                 </a>
             </div>
             <div class="iq-search-bar device-search">
