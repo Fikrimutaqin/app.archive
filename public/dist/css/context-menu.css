@@ -1,0 +1,59 @@
+.box{
+    width: 100%;
+    max-height: 100%;
+    height: 700px;
+    border: none;
+    border-radius: 10px;
+}
+
+.site-cm-box {
+	width: 185px;
+	border: none;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	background-color: #fff
+}
+
+ul.site-cm-group {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+	padding-bottom: 0px;
+}
+
+.site-cm-box ul.site-cm-group li {
+	height: 36px;
+	padding-left: 0px;
+	padding-right: 0px;
+	line-height: 36px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	cursor: default
+}
+
+.site-cm-box .site-cm-separ {
+	height: 0;
+	border-top: 1px solid #d2d2d2
+}
+
+.site-cm-box ul.site-cm-group li:hover,
+.site-cm-box ul.site-cm-group li.hover {
+	color: black;
+}
+
+.site-cm-box ul.site-cm-group li>.site-cm-box {
+	left: 0px;
+	margin-top: -36px
+}
+
+.site-cm-box ul.site-cm-group li:hover>.site-cm-box,
+.site-cm-box ul.site-cm-group li.hover>.site-cm-box {
+	color: #000
+}
+
+.site-cm-icon {
+	color: #666;
+	width: 20px
+}
